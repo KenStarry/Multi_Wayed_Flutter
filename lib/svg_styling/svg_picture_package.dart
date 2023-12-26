@@ -17,6 +17,8 @@ class _SvgPicturePackageState extends State<SvgPicturePackage> {
           'assets/images/undraw_pancakes.svg',
           colorFilter: const ColorFilter.mode(Colors.red, BlendMode.srcIn),
           semanticsLabel: 'Sweet Pancakes',
+          width: 200,
+          height: 200,
         ),
       ),
     );
