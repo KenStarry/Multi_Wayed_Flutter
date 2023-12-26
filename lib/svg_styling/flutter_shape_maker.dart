@@ -14,11 +14,11 @@ class FlutterShapeMaker extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             CustomPaint(
-              size: Size(200, (200 * 0.7894034777284248).toDouble()),
+              size: Size(WIDTH, (WIDTH * 0.7894034777284248).toDouble()),
               painter: FlutterShapeMakerCustomPaint(),
             ),
             const SizedBox(height: 24),
-            Text("SVG Using Canvas")
+            const Text("SVG Using Canvas")
           ],
         ),
       ),
