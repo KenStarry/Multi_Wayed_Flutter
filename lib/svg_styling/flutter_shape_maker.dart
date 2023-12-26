@@ -14,7 +14,7 @@ class FlutterShapeMaker extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             CustomPaint(
-              size: Size(WIDTH, (WIDTH * 0.7894034777284248).toDouble()),
+              size: Size(250, (250 * 0.7894034777284248).toDouble()),
               painter: FlutterShapeMakerCustomPaint(),
             ),
             const SizedBox(height: 24),
