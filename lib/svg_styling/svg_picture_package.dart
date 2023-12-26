@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_svg/svg.dart';
 
 class SvgPicturePackage extends StatefulWidget {
   const SvgPicturePackage({super.key});
@@ -10,6 +11,14 @@ class SvgPicturePackage extends StatefulWidget {
 class _SvgPicturePackageState extends State<SvgPicturePackage> {
   @override
   Widget build(BuildContext context) {
-    return Text("hello");
+    return Scaffold(
+      body: Center(
+        child: SvgPicture.asset(
+          'assets/images/undraw_pancakes.svg',
+          colorFilter: const ColorFilter.mode(Colors.red, BlendMode.srcIn),
+          semanticsLabel: 'Sweet Pancakes',
+        ),
+      ),
+    );
   }
 }
