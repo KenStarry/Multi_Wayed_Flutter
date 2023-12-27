@@ -290,7 +290,7 @@ class FlutterShapeMakerCustomPaint extends CustomPainter {
         size.height * 0.5687812);
 
     Paint paint_6_fill = Paint()..style = PaintingStyle.fill;
-    paint_6_fill.color = Color(0xff6c63ff).withOpacity(1.0);
+    paint_6_fill.color = Colors.red.withOpacity(1.0);
     canvas.drawPath(path_6, paint_6_fill);
 
     Path path_7 = Path();
@@ -346,7 +346,7 @@ class FlutterShapeMakerCustomPaint extends CustomPainter {
         size.height * 0.5687812);
 
     Paint paint_7_fill = Paint()..style = PaintingStyle.fill;
-    paint_7_fill.color = Color(0xff6c63ff).withOpacity(1.0);
+    paint_7_fill.color = Colors.red.withOpacity(1.0);
     canvas.drawPath(path_7, paint_7_fill);
 
     Paint paint_8_fill = Paint()..style = PaintingStyle.fill;
@@ -452,7 +452,7 @@ class FlutterShapeMakerCustomPaint extends CustomPainter {
     path_9.close();
 
     Paint paint_9_fill = Paint()..style = PaintingStyle.fill;
-    paint_9_fill.color = Color(0xff6c63ff).withOpacity(1.0);
+    paint_9_fill.color = Colors.red.withOpacity(1.0);
     canvas.drawPath(path_9, paint_9_fill);
 
     Path path_10 = Path();
@@ -691,7 +691,7 @@ class FlutterShapeMakerCustomPaint extends CustomPainter {
     path_10.close();
 
     Paint paint_10_fill = Paint()..style = PaintingStyle.fill;
-    paint_10_fill.color = Color(0xff6c63ff).withOpacity(1.0);
+    paint_10_fill.color = Colors.red.withOpacity(1.0);
     canvas.drawPath(path_10, paint_10_fill);
 
     Path path_11 = Path();
@@ -880,7 +880,7 @@ class FlutterShapeMakerCustomPaint extends CustomPainter {
     path_16.close();
 
     Paint paint_16_fill = Paint()..style = PaintingStyle.fill;
-    paint_16_fill.color = Color(0xff6c63ff).withOpacity(1.0);
+    paint_16_fill.color = Colors.red.withOpacity(1.0);
     canvas.drawPath(path_16, paint_16_fill);
 
     Path path_17 = Path();
@@ -906,7 +906,7 @@ class FlutterShapeMakerCustomPaint extends CustomPainter {
     path_17.close();
 
     Paint paint_17_fill = Paint()..style = PaintingStyle.fill;
-    paint_17_fill.color = Color(0xff6c63ff).withOpacity(1.0);
+    paint_17_fill.color = Colors.red.withOpacity(1.0);
     canvas.drawPath(path_17, paint_17_fill);
 
     Path path_18 = Path();
@@ -1117,7 +1117,7 @@ class FlutterShapeMakerCustomPaint extends CustomPainter {
     path_21.close();
 
     Paint paint_21_fill = Paint()..style = PaintingStyle.fill;
-    paint_21_fill.color = Color(0xff6c63ff).withOpacity(1.0);
+    paint_21_fill.color = Colors.red.withOpacity(1.0);
     canvas.drawPath(path_21, paint_21_fill);
 
     Path path_22 = Path();
@@ -1218,7 +1218,7 @@ class FlutterShapeMakerCustomPaint extends CustomPainter {
     path_23.close();
 
     Paint paint_23_fill = Paint()..style = PaintingStyle.fill;
-    paint_23_fill.color = Color(0xff6c63ff).withOpacity(1.0);
+    paint_23_fill.color = Colors.red.withOpacity(1.0);
     canvas.drawPath(path_23, paint_23_fill);
 
     Paint paint_24_fill = Paint()..style = PaintingStyle.fill;
@@ -1306,7 +1306,7 @@ class FlutterShapeMakerCustomPaint extends CustomPainter {
     path_26.close();
 
     Paint paint_26_fill = Paint()..style = PaintingStyle.fill;
-    paint_26_fill.color = Color(0xff6c63ff).withOpacity(1.0);
+    paint_26_fill.color = Colors.red.withOpacity(1.0);
     canvas.drawPath(path_26, paint_26_fill);
 
     Path path_27 = Path();
@@ -1337,7 +1337,7 @@ class FlutterShapeMakerCustomPaint extends CustomPainter {
     path_27.close();
 
     Paint paint_27_fill = Paint()..style = PaintingStyle.fill;
-    paint_27_fill.color = Color(0xff6c63ff).withOpacity(1.0);
+    paint_27_fill.color = Colors.red.withOpacity(1.0);
     canvas.drawPath(path_27, paint_27_fill);
 
     Paint paint_28_fill = Paint()..style = PaintingStyle.fill;
